@@ -7,5 +7,3 @@ export default class Clickcounter extends Component {
     )
   }
 }
-
-                             

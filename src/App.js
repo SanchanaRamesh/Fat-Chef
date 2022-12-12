@@ -1,15 +1,12 @@
 import './App.css';
 import React from 'react';
-
-
-import Login from './Forms/Login';
+import GetEx from './HTTP/GetEx';
 
 
 function App() {
   return (
   <div className="App">
-  
-    <Login/>
+  <GetEx/>
   </div>
   );
 }
